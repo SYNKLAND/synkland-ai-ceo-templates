@@ -5,7 +5,7 @@
 A set of MIT-licensed prompts that turn Claude / ChatGPT into a structured C-suite for your solo business or side project.
 
 **Live demo / waitlist**: https://synkland.pages.dev
-**Architecture writeup**: https://zenn.dev/synk/articles/d29140703b0dcf
+**Architecture writeup**: archived (v3 era)
 **V2-F (AI Monthly Review, Stage 1 LP)**: https://synkland.pages.dev/v2/
 
 > Failure is publicized here. Every venture launched under SYNKLAND has its post-mortem auto-published if it fails — see `/post-mortems/` (populated as ventures retire).
